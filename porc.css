@@ -1,0 +1,31 @@
+
+.titre {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.text {
+    color: #f8f5f5;
+    text-shadow: 2px 1px #03071e;
+}
+
+#banner {
+    background-image: url("porc.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#footer {
+    margin-top: 35px;
+    background-image: url("porc.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.nav-link:hover {
+    border: 1px black;
+    background-color: dodgerblue;
+    color: white;
+}

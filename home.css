@@ -1,0 +1,53 @@
+.fakeimg1 {
+  background-image: url("bami.jpg");
+  height: 200px;
+  object-fit: contain;
+}
+.fakeimg2 {
+  background-image: url("bougna.jpg");
+  height: 200px;
+}
+.fakeimg3 {
+  background-image: url("porc.jpg");
+  height: 200px;
+}
+.fakeimg4 {
+  background-image: url("saladepoiss.jpg");
+  height: 200px;
+}
+.fakeimg5 {
+  background-image: url("pouletvanille.jpg");
+  height: 200px;
+}
+
+
+.img {
+  color: #f8edeb;
+  font-style: italic;
+  height: 200px;
+  background-image: url("nc.jpg");
+}
+.img:hover {
+  box-shadow: 2px 2px 5px #03071e;
+}
+
+.text {
+  color: #f8f5f5;
+  text-shadow: 2px 1px #03071e;
+}
+
+#banner {
+  background-image: url("food.jpg");
+  background-attachment: fixed;
+}
+
+#footer {
+  margin-top: 35px;
+  background-image: url("food.jpg");
+  background-attachment: fixed;
+}
+.nav-link:hover {
+  border: 1px black;
+  background-color: dodgerblue;
+  color: white;
+}
